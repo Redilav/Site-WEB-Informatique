@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="fr"> 
+<head> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+	<script type="text/javascript" src="PageprincipalJS.js"></script>
+	<link rel="stylesheet" href="PagePrincipaleCSS.css">
+	<title>Page principal</title>
+</head>
+<body>
+	<header>
+		<h1> Titre du site </h1>
+	</header>
+	<nav>
+		page 1 <br /><br />
+		page 2 <br /><br />
+		page 3 <br /><br />
+		page 4 <br /><br />
+		page 5 <br /><br />
+	</nav>
+	<main>
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+
+	</main>
+	<footer>
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+		TEXT concernant les langages de programmation WEB CSS et HTML.
+	</footer>
+</body>
+</html>
